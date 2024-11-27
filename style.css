@@ -1,14 +1,6 @@
 body{
   background-color: #E0D8D7;
 }
-/* bg image */
-.bgimage {
-    height:100vh;
-    background: url('images/bgImage.jpeg');
-    background-size:cover;
-    position:relative;
-    background-color: #E0D8D7;
-}
 /* text css above image*/
 .title {
     font-size: 4.5rem;
